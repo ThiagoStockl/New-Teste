@@ -1,6 +1,4 @@
-bom dia
-boa tarde
-macarrao
+PULL REQUEST ALTERAÇÃO
 
 STROGONOFF
 dasdddsd
